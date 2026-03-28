@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ian Lumb
 
-<!--
-**ian-lumb/ian-lumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enterprise Technology Leader — Financial Analytics & Cloud Platforms**
 
-Here are some ideas to get you started:
+VP of Product, Analytics at SimCorp (Deutsche Börse Group), leading product strategy across multi-asset risk, performance attribution, portfolio optimisation, and factor investing for the global institutional buy-side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+30+ years bridging quantitative finance, cloud analytics platforms (Azure, Snowflake), and strategic commercial execution — spanning investment banking front offices, enterprise SaaS, and financial technology.
+
+BSc Economics with Computing and Statistics, First Class Honours — University of Bath.
+
+---
+
+*A structured, machine-readable version of my CV is available in this repository:* [Ian_Lumb_CV.md](Ian_Lumb_CV.md)
